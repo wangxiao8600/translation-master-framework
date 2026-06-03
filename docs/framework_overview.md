@@ -244,7 +244,7 @@ The goal is to let each language version become native to its language while sta
 
 ## 7. Public Templates
 
-The first public release is expected to include thin templates rather than production examples.
+The first public release includes reusable templates rather than production examples.
 
 Initial public templates:
 
@@ -288,7 +288,7 @@ It may include:
 - citation metadata
 - framework overview
 - release boundary
-- thin public templates
+- reusable public templates
 - reviewed schemas when cleared
 
 ### Invite-only

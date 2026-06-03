@@ -131,7 +131,6 @@ translation-master-framework/
   README.md
   README.zh.md
   LICENSE
-  LICENSE-POLICY.md
   NOTICE
   CITATION.cff
   docs/
@@ -155,7 +154,7 @@ translation-master-framework/
 - Light Alignment Mode（轻量对齐模式）
 - Raw Voice Mode（原声模式）
 
-`schemas/` 和示例材料暂缓，需要单独审查后再决定是否公开。
+`schemas/` 和示例材料待定，需要单独审查后再决定是否公开。
 
 如果需要快速理解方法边界，先看 `docs/release_boundary.md`。
 
@@ -183,16 +182,16 @@ Wang Xiao. Translation Master Framework v2.6. OathAI Open Projects.
 
 ## 许可
 
-这个仓库采用分层许可策略：
+这个仓库采用仓库级许可：
 
 - 当前文档、模板与框架材料：`CC BY-SA 4.0`
-- 未来代码工具、脚本和验证器：`MIT`
+
+未来代码工具、脚本和验证器在加入时，可通过明确的文件级或目录级声明使用 `MIT`。
 
 详见：
 
 ```text
 LICENSE
-LICENSE-POLICY.md
 ```
 
 ## 当前状态

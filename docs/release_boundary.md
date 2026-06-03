@@ -2,7 +2,7 @@
 
 Translation Master Framework v2.6 is published as a public method-layer release.
 
-The public repository is intended to establish a citable source, provide a thin reusable method surface, and make the framework understandable without exposing the private production archive behind it.
+The public repository establishes a citable source, provides reusable method materials, and makes the framework understandable without exposing the private production archive behind it.
 
 ---
 
@@ -41,7 +41,7 @@ It may include:
 - citation metadata
 - framework overview
 - release boundary
-- thin public templates
+- reusable public templates
 - reviewed schemas when cleared
 
 ### Invite-only
@@ -78,15 +78,12 @@ It remains private by default and includes:
 
 ## First Public Release Scope
 
-The first public release should stay thin.
-
 Recommended first public scope:
 
 ```text
 README.md
 README.zh.md
 LICENSE
-LICENSE-POLICY.md
 NOTICE
 CITATION.cff
 docs/framework_overview.md

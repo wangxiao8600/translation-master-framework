@@ -90,7 +90,7 @@ This public release may include:
 
 - framework overview
 - release boundary notes
-- thin public templates
+- reusable public templates
 - reviewed schemas when cleared
 - citation metadata
 
@@ -115,7 +115,6 @@ translation-master-framework/
   README.md
   README.zh.md
   LICENSE
-  LICENSE-POLICY.md
   NOTICE
   CITATION.cff
   docs/
@@ -141,7 +140,7 @@ Choose the translation mode before drafting:
 - Light Alignment Mode
 - Raw Voice Mode
 
-Schemas and examples are deferred until separately reviewed.
+Schemas and examples are to be decided after separate review.
 
 ## Chinese Overview
 
@@ -177,16 +176,16 @@ Wang Xiao. Translation Master Framework v2.6. OathAI Open Projects.
 
 ## License
 
-This repository uses a layered license policy:
+This repository uses the repository-level license:
 
 - current docs, templates, and framework materials: `CC BY-SA 4.0`
-- future code tools, scripts, and validators: `MIT`
+
+Future code tools, scripts, and validators may use `MIT` when added with explicit file-level or directory-level notices.
 
 See:
 
 ```text
 LICENSE
-LICENSE-POLICY.md
 ```
 
 ## Status
