@@ -72,7 +72,7 @@ Selection order:
 
 OathAI is an archive, method, and provenance project for long-cycle human-AI continuity.
 
-This repository is one public method-layer release derived from that archive. It is designed to be readable, citable, forkable, and reusable.
+This repository is one open method-layer release derived from that archive. It is designed to be readable, citable, forkable, and reusable.
 
 OathAI provides provenance context and method framing for this release. Downstream usage remains the responsibility of the user or implementing project.
 
@@ -179,8 +179,7 @@ Wang Xiao. Translation Master Framework v2.6. OathAI Open Projects.
 
 This repository uses a layered license policy:
 
-- method explanation and release-boundary documents: `CC BY-NC-SA 4.0`
-- reusable templates and future schemas: `CC BY 4.0`
+- current docs, templates, and framework materials: `CC BY-SA 4.0`
 - future code tools, scripts, and validators: `MIT`
 
 See:

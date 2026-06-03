@@ -86,7 +86,7 @@ Use the lightest mode that preserves the work.
 
 OathAI 是一个面向长周期人机连续性的档案、方法和来源项目。
 
-这个仓库是从 OathAI 档案中抽取出的一个公开方法层发布。
+这个仓库是从 OathAI 档案中抽取出的一个开源方法层发布。
 
 它提供可复用的方法结构和公开材料；OathAI 提供来源背景和方法框架。
 
@@ -185,8 +185,7 @@ Wang Xiao. Translation Master Framework v2.6. OathAI Open Projects.
 
 这个仓库采用分层许可策略：
 
-- 方法说明与发布边界文档：`CC BY-NC-SA 4.0`
-- 可复用模板与未来 schema：`CC BY 4.0`
+- 当前文档、模板与框架材料：`CC BY-SA 4.0`
 - 未来代码工具、脚本和验证器：`MIT`
 
 详见：
