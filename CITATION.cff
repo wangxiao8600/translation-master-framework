@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use Translation Master Framework v2.6, please cite it using the metadata in this file."
+title: "Translation Master Framework"
+version: "2.6"
+authors:
+  - family-names: "Wang"
+    given-names: "Xiao"
+    website: "https://oathai.io/author"
+abstract: >-
+  Translation Master Framework v2.6 is a structured translation framework
+  formed and iterated through the 21-language publication process of
+  System and Freedom. It is designed for multilingual publishing,
+  translation, and review work where literal conversion is not enough,
+  helping a work preserve structure, terminology boundaries, narrative
+  rhythm, emotional temperature, cultural force, and target-language
+  reader fit.
+keywords:
+  - "translation"
+  - "multilingual publishing"
+  - "structural inheritance"
+  - "literary translation"
+  - "human-AI collaboration"
+  - "OathAI"
+  - "System and Freedom"
+repository-code: "https://github.com/wangxiao8600/translation-master-framework"

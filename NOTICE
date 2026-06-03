@@ -1,0 +1,40 @@
+Translation Master Framework
+
+Copyright (c) Wang Xiao.
+
+Translation Master Framework v2.6 is a structured translation framework
+formed and iterated through the 21-language publication process of
+System and Freedom.
+
+This repository is published as part of OathAI Open Projects.
+
+Canonical public references:
+
+- https://github.com/wangxiao8600/translation-master-framework
+- https://oathai.io/system-and-freedom
+- https://oathai.io/
+
+Author:
+
+- Wang Xiao
+- https://oathai.io/author
+
+License:
+
+This repository uses a layered license policy.
+
+- Method explanation and release-boundary documents: CC BY-NC-SA 4.0
+- Reusable templates and future schemas: CC BY 4.0
+- Future code tools, scripts, and validators: MIT
+
+See LICENSE and LICENSE-POLICY.md for details.
+
+Boundary:
+
+This public repository does not publish the private production archive,
+raw human-AI logs, full prompt chains, complete language matrices,
+complete manuscript workflow, or invite-only collaboration materials.
+
+Use of this repository does not imply OathAI endorsement, certification,
+or validation of downstream translations, implementations, or derivative
+projects.
