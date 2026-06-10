@@ -1,6 +1,8 @@
 # Terminology Map
 
 - Template: Translation Master Framework / terminology map
+- Framework version: v2.6
+- Release date: 2026-06-10
 - Template author: Wang Xiao
 - Website: https://oathai.io
 - Project field: [Project name]

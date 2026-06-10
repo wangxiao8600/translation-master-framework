@@ -2,6 +2,9 @@
 
 Translation Master Framework v2.6 is a structured translation framework formed and iterated through the 21-language publication process of *System and Freedom*.
 
+- Current public release: v2.6
+- Release date: 2026-06-10
+
 It is designed for multilingual publishing, translation, and review work. It helps a work enter a new language in a way that better fits native reader habits while inheriting the original structure, terminology boundaries, narrative rhythm, emotional temperature, and cultural force. In the multilingual workflow of *System and Freedom*, it was used to significantly reduce the stiffness often found in direct AI machine translation and became an effective method for improving translation quality.
 
 Real case: [System and Freedom](https://oathai.io/system-and-freedom).
@@ -108,7 +111,7 @@ Private materials include:
 - complete manuscript workflow
 - unpublished book-production materials
 
-## Planned Repository Structure
+## Repository Structure
 
 ```text
 translation-master-framework/
@@ -117,6 +120,8 @@ translation-master-framework/
   LICENSE
   NOTICE
   CITATION.cff
+  VERSION
+  CHANGELOG.md
   docs/
     framework_overview.md
     release_boundary.md

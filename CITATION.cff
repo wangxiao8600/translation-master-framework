@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use Translation Master Framework v2.6, please cite it using the metadata in this file."
 title: "Translation Master Framework"
 version: "2.6"
+date-released: "2026-06-10"
 authors:
   - family-names: "Wang"
     given-names: "Xiao"
