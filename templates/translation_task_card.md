@@ -1,5 +1,15 @@
 # Translation Task Card
 
+- Template: Translation Master Framework / translation task card
+- Template author: Wang Xiao
+- Website: https://oathai.io
+- Project field: [Project name]
+- Prepared by field: [Translator, reviewer, or AI collaborator]
+- Status: starter template
+- License note: see repository `LICENSE` and `NOTICE`.
+
+---
+
 Use this card to define a translation or review task before drafting, revising, or evaluating target-language output.
 
 This card is designed for structural translation work: preserving structure, terminology boundaries, narrative rhythm, emotional temperature, cultural force, and target-language reader fit.

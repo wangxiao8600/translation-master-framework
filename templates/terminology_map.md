@@ -1,5 +1,15 @@
 # Terminology Map
 
+- Template: Translation Master Framework / terminology map
+- Template author: Wang Xiao
+- Website: https://oathai.io
+- Project field: [Project name]
+- Prepared by field: [Translator, reviewer, or AI collaborator]
+- Status: starter template
+- License note: see repository `LICENSE` and `NOTICE`.
+
+---
+
 Use this map to define, preserve, and review key terms during translation or multilingual review.
 
 This template supports structural translation work: stable terminology boundaries, target-language fit, rhythm-aware wording, and culturally deliberate adaptation.
